@@ -1,2 +1,1 @@
-# Image-classifier
-Linearly rectified fully connected two layer neural network which uses a python based softmax classifier. 
+Linearly rectified fully connected 2-layer neural network that uses softmax classifier on CIFAR-10 dataset.
